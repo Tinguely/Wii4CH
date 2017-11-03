@@ -1,0 +1,10 @@
+/Volumes/ext/CHWII/CHWII/bin/Debug/netcoreapp2.0/CHWII.deps.json
+/Volumes/ext/CHWII/CHWII/bin/Debug/netcoreapp2.0/CHWII.runtimeconfig.json
+/Volumes/ext/CHWII/CHWII/bin/Debug/netcoreapp2.0/CHWII.runtimeconfig.dev.json
+/Volumes/ext/CHWII/CHWII/bin/Debug/netcoreapp2.0/CHWII.dll
+/Volumes/ext/CHWII/CHWII/bin/Debug/netcoreapp2.0/CHWII.pdb
+/Volumes/ext/CHWII/CHWII/obj/Debug/netcoreapp2.0/CHWII.csproj.CoreCompileInputs.cache
+/Volumes/ext/CHWII/CHWII/obj/Debug/netcoreapp2.0/CHWII.AssemblyInfoInputs.cache
+/Volumes/ext/CHWII/CHWII/obj/Debug/netcoreapp2.0/CHWII.AssemblyInfo.cs
+/Volumes/ext/CHWII/CHWII/obj/Debug/netcoreapp2.0/CHWII.dll
+/Volumes/ext/CHWII/CHWII/obj/Debug/netcoreapp2.0/CHWII.pdb
